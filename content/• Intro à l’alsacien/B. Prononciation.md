@@ -1,4 +1,4 @@
-![[pronunciation2.png]]
+![[pronunciation.png]]
 
 # İntroduction
 
@@ -113,7 +113,7 @@ J’ai donc retenu 25 consonnes + 5 combinaisons de consonnes (les affriquées s
 |  **s**  |    **s**     | Sunn, groos, ässe                     |
 |  **ʃ**  | **sch, ch**  | schaffe, ich, Büch                    |
 |  **ç**  |    **ch**    | ich, Büch                             |
-|  **χ**  |    **ch**    | koche, aacht • ich #AS • Ching #S     |
+|  **χ**  |    **ch**    | koche, aacht • ich #AS • Ching #S     |
 |  **ʁ**  |    **r**     | richti, Dräck                         |
 |  **h**  |    **h**     | Haas, han                             |
 |  **l**  |    **l**     | lüeje, Liecht                         |
@@ -147,7 +147,7 @@ J’ai donc retenu 25 consonnes + 5 combinaisons de consonnes (les affriquées s
 |        **w, v**        |               **ʋ**                | awer, Mêwel, Video, Velo                      |
 |         **s**          |               **s**                | Sunn, groos, ässe                             |
 |        **sch**         |               **ʃ**                | schaffe, schunsch                             |
-| **ch [[#^1739a1\|*]]** | **ç~ʃ – χ** #BAN •<br>**χ** #AS | ich, Büch – koche, aacht • ich #AS • Ching #S |
+| **ch [[#^1739a1\|*]]** | **ç~ʃ – χ**<br>#BAN •<br>**χ** #AS | ich, Büch – koche, aacht • ich #AS • Ching #S |
 |         **r**          |               **ʁ**                | richti, Dräck                                 |
 |         **h**          |               **h**                | Haas, han                                     |
 |         **l**          |               **l**                | lüeje, Liecht                                 |
