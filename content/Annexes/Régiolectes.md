@@ -21,7 +21,7 @@ Il existe quarte type de code utilisé pour situer dans quelle zone l’on prono
 {S} <font color="97124b"><b>Sunngœi</b></font> = [[A. « Alsacien »#^f2d2ea|Haut-alémanique]] ^a200c6
 
 
-# Zones dialectales
+# Zones supra-régiolecte
 
 {FR} Les deux franciques = {K} {U}
 
@@ -35,7 +35,7 @@ Il existe quarte type de code utilisé pour situer dans quelle zone l’on prono
 
 {AL} Alémanique = {N} {I} {M} {E} {S} 
 
-# Zone infra-régiolecte
+# Zones infra-régiolecte
 
 (voir [[A. « Alsacien »#^759800|A.3.3]])
 ![[_files/maps/1 Unistra - carte orientation.png]]

@@ -110,7 +110,7 @@ J’ai donc retenu 25 consonnes + 5 combinaisons de consonnes (les affriquées s
 |    Lettre    |  Son   | Exemples                                        |
 | :----------: | :----: | ----------------------------------------------- |
 |   **b, p**   | **b̥** | Babyyr, Schlappe                                |
-|  **bh, p**   | **pʰ** | packe, bhalte • Pund [[Régiolectes#^b51bca\|{K}]] |
+|  **bh, p**   | **pʰ** | packe, bhalte • Pund [[Régiolectes#Régiolectes\|{K}]] |
 |   **d, t**   | **d̥** | Disch, Wält, Daatum                             |
 |  **dh, t**   | **tʰ** | Tee, dhëëm                                      |
 | **g, k, ck** | **ɡ̊** | Gass, klëën, gücke, hucke                       |
@@ -124,7 +124,7 @@ J’ai donc retenu 25 consonnes + 5 combinaisons de consonnes (les affriquées s
 |        **w, v**        |                                      **ʋ**                                      | awer, Mêwel, Video, Velo                                                                     |
 |         **s**          |                                      **s**                                      | Sunn, groos, ässe                                                                            |
 |        **sch**         |                                      **ʃ**                                      | schaffe, schunsch                                                                            |
-| **ch [[#^1739a1\|*]]** | **ç~ʃ – χ** [[Régiolectes#^1dcf36\|{BAN}]] •<br>**χ** [[Régiolectes#^80eb3a\|{AS}]] | ich, Büch – koche, aacht • ich [[Régiolectes#^80eb3a\|{AS}]]• Ching [[Régiolectes#^a200c6\|{S}]] |
+| **ch [[#^1739a1\|*]]** | **ç~ʃ – χ** [[Régiolectes#Zones supra-régiolecte\|{BAN}]] •<br>**χ** [[Régiolectes#Zones supra-régiolecte\|{AS}]] | ich, Büch – koche, aacht • ich [[Régiolectes#Zones supra-régiolecte\|{AS}]]• Ching [[Régiolectes#Régiolectes\|{S}]] |
 |         **r**          |                                      **ʁ**                                      | richti, Dräck                                                                                |
 |         **h**          |                                      **h**                                      | Haas, han                                                                                    |
 |         **l**          |                                      **l**                                      | lüeje, Liecht                                                                                |
@@ -216,21 +216,21 @@ Voici les détails d’écriture de ces occlusives :
 
 **Les voyelles antérieures non-arrondies**
 
-|        Lettre         |                                    Son                                    | Exemples                                                                                  |
-| :-------------------: | :-----------------------------------------------------------------------: | ----------------------------------------------------------------------------------------- |
-|         **y**         |                                   **i**                                   | Lyt, er brycht                                                                            |
-|       **yy/yh**       |                                  **iː**                                   | schryywe, dyyr, Rappschwyhr                                                               |
-|         **i**         |        **ɪ – i [[#^bf40fd\|*]] •<br>i** [[Régiolectes#^418d12\|{U}]]        | Kind, er bricht – fertig, intressant                                                      |
-|       **ii/ih**       | **ɪː** [[Régiolectes#^80eb3a\|{AS}]] •<br>**iː** [[Régiolectes#^418d12\|{U}]] | Schtiifel, siht, gsii [[Régiolectes#^80eb3a\|{AS}]] • miid, Liib [[Régiolectes#^418d12\|{U}]] |
-|         **e**         |                         **e – ə [[#^bf40fd\|*]]**                         | Bett, het – bedanke, geloffe, Kranket                                                     |
-|       **ee/eh**       |               **eː •<br>ɪː** [[Régiolectes#^4121fa\|{ee}]]                | scheen, gehn                                                                              |
-|         **ê**         |                   **eː** [[Régiolectes#^4121fa\|{ee}]]                    | Mêr, Hêfe, Gewênet                                                                        |
-| **é** [[#^bf40fd\|*]] |                                   **ɪ**                                   | Bareblé • Maidlé %%zone???%%                                                              |
-| **è** [[#^bf40fd\|*]] |                                   **e**                                   | Käbinè, schèniere, kè, offizièl                                                           |
-|         **ë**         |                                   **ɛ**                                   | Wëtter, Këller [[Régiolectes#^05dc9d\|{ë}]]                                               |
-|       **ëë/ëh**       |                                  **ɛː**                                   | sëhn [[Régiolectes#^05dc9d\|{ë}]] • elëën [[Régiolectes#^541ef1\|{İ}]]                    |
-|         **ä**         |                                **a, (æ)**                                 | nätt, Wätter                                                                              |
-|       **ää/äh**       |                               **aː, (æː)**                                | Kääs, Mähl • elään [[Régiolectes#^91b57a\|{U,N}]]                                         |
+|        Lettre         |                            Son                             | Exemples                                            |                                         |                                                            |                                               |       |
+| :-------------------: | :--------------------------------------------------------: | --------------------------------------------------- | --------------------------------------- | ---------------------------------------------------------- | --------------------------------------------- | ----- |
+|         **y**         |                           **i**                            | Lyt, er brycht                                      |                                         |                                                            |                                               |       |
+|       **yy/yh**       |                           **iː**                           | schryywe, dyyr, Rappschwyhr                         |                                         |                                                            |                                               |       |
+|         **i**         | **ɪ – i [[#^bf40fd\|*]] •<br>i** [[Régiolectes#Régiolectes\|{U}]]                                               | Kind, er bricht – fertig, intressant    |                                                            |                                               |       |
+|       **ii/ih**       |        **ɪː** [[Régiolectes#Zones supra-régiolecte\|{AS}]] •<br>**iː** [[Régiolectes#Régiolectes\|{U}]]                                   | Schtiifel, siht, gsii [[Régiolectes#Zones supra-régiolecte\|{AS}]] • miid, Liib [[Régiolectes#Régiolectes\|{U}]] |
+|         **e**         |                 **e – ə [[#^bf40fd\|*]]**                  | Bett, het – bedanke, geloffe, Kranket               |                                         |                                                            |                                               |       |
+|       **ee/eh**       |    **eː •<br>ɪː** [[Régiolectes#Phénomènes phonétiques\|{ee}]]                                              | scheen, gehn                            |                                                            |                                               |       |
+|         **ê**         |        **eː** [[Régiolectes#Phénomènes phonétiques\|{ee}]]                                              | Mêr, Hêfe, Gewênet                      |                                                            |                                               |       |
+| **é** [[#^bf40fd\|*]] |                           **ɪ**                            | Bareblé • Maidlé %%zone???%%                        |                                         |                                                            |                                               |       |
+| **è** [[#^bf40fd\|*]] |                           **e**                            | Käbinè, schèniere, kè, offizièl                     |                                         |                                                            |                                               |       |
+|         **ë**         |                           **ɛ**                            | Wëtter, Këller [[Régiolectes#Phénomènes phonétiques\|{ë}]]                                   |                                                            |                                               |       |
+|       **ëë/ëh**       |                           **ɛː**                           | sëhn [[Régiolectes#Phénomènes phonétiques\|{ë}]] • elëën [[Régiolectes#Régiolectes\|{İ}]]                                                      |                                               |       |
+|         **ä**         |                         **a, (æ)**                         | nätt, Wätter                                        |                                         |                                                            |                                               |       |
+|       **ää/äh**       |                        **aː, (æː)**                        | Kääs, Mähl • elään [[Régiolectes#Régiolectes\|{U,N}]]                                 |                                                            |                                               |       |
 
 **Les voyelles antérieures arrondies**
 
@@ -238,19 +238,19 @@ Voici les détails d’écriture de ces occlusives :
 | :---: | :-----: | ------ |
 |         **ü**         |                **y**                | Hüs, üsmache                              |
 |        **üü**         |               **yː**                | Müür, schnüüfe                            |
-|         **ö**         |             **ø, (ʏ)**              | töffe • löwe [[Régiolecte|{K}]]                           |
+|         **ö**         |             **ø, (ʏ)**              | töffe • löwe [[Régiolectes#Régiolectes\|{K}]]                           |
 |        **öö**         |            **øː, (ʏː)**             | blöö %%zone???%%                          |
-|         **œ**         |               **œː**                | Dœ, sœ mool [[Régiolecte|{I}]] • Wœwe [[Régiolecte|{K}]]                  |
+|         **œ**         |               **œː**                | Dœ, sœ mool [[Régiolectes#Régiolectes\|{İ}]] • Wœwe [[Régiolectes#Régiolectes\|{K}]]                  |
 
 **Les voyelles postérieures arrondies**
 
 | Lettre | Son | Exemples |
 | :---: | :-----: | ------ |
-|         **u**         |          **ʊ •<br>u** [[Régiolecte|{ù-u}]]          | kumme • Sunnä [[Régiolecte|{ù-u}]]                        |
-|       **uu/uh**       |         **ʊː •<br>uː** [[Régiolecte|{ù-u}]]         | guut, Bruuder [[Régiolecte|{FR}]] • Suhn [[Régiolecte|{ù-u}]]             |
+|         **u**         |          **ʊ •<br>u** [[Régiolectes#Phénomènes phonétiques\|{ù-u}]]          | kumme • Sunnä [[Régiolectes#Phénomènes phonétiques\|{ù-u}]]                        |
+|       **uu/uh**       |         **ʊː •<br>uː** [[Régiolectes#Phénomènes phonétiques\|{ù-u}]]         | guut, Bruuder [[Régiolectes#Zones supra-régiolecte\|{FR}]] • Suhn [[Régiolectes#Phénomènes phonétiques\|{ù-u}]]             |
 |         **o**         |                **o**                | Kopf, Loch                                |
-|       **oo/oh**       |         **oː •<br>ʊː** [[Régiolecte|{ee}]]          | Schtroos, groos                           |
-|         **ô**         |             **oː** [[Régiolecte|{ee}]]              | gebrôcht, rôte, brôte, Krambôl            |
+|       **oo/oh**       |         **oː •<br>ʊː** [[Régiolectes#Phénomènes phonétiques\|{ee}]]          | Schtroos, groos                           |
+|         **ô**         |             **oː** [[Régiolectes#Phénomènes phonétiques\|{ee}]]              | gebrôcht, rôte, brôte, Krambôl            |
 |         **a**         |                **ɒ**                | han, Bank                                 |
 |       **aa/ah**       |               **ɒː**                | Naas, fahre                               |
 
@@ -277,7 +277,7 @@ Voici les détails d’écriture de ces occlusives :
 > - <u>Ba</u>reblé, <u>Bum</u>pjé /ˈb̥ɒʁəb̥lɪ, ˈb̥ʊmb̥jɪ/
 > - kè, <u>Schy</u>lè, <u>Kä</u>binè, schèn<u>iere</u> /ˈkʰe, ˈʃile, ˈkʰab̥ine, ʃenˈiə̯ʁə/
 > 
-> > [!warning] Tous les ⟨i⟩ sont prononcés /i/ en francique rhénan méridional [[Régiolectes#^418d12|{U}]] car il n’existe pas de /ɪ/ dans ces variétés. Par conséquent, la lettre ⟨y⟩ ne sera pas utilisée dans ces variétés.
+> > [!warning] Tous les ⟨i⟩ sont prononcés /i/ en francique rhénan méridional [[Régiolectes#Régiolectes|{U}]] car il n’existe pas de /ɪ/ dans ces variétés. Par conséquent, la lettre ⟨y⟩ ne sera pas utilisée dans ces variétés.
 
 ^bf40fd
 
@@ -285,7 +285,7 @@ Voici les détails d’écriture de ces occlusives :
 > On attribue les voyelles sans accents aux sons les plus répandus et les moins variables entre les variétés, à savoir :
 > > /ɒ, e, ɪ, o, ʊ/ écrit ⟨a, e, i, o, u⟩.
 > 
-> Viennent ensuite les anciennes monophtongues /i, iː/ et /y, yː/ maintenue partout hormis [[Régiolectes#^418d12|{U}]], écrites respectivement ⟨y, yy⟩ et ⟨ü, üü⟩. Cela permet à un locuteur de francique rhénan méridional [[Régiolectes#^418d12|{U}]] de savoir qu’il doit prononcer avec une diphtongue :
+> Viennent ensuite les anciennes monophtongues /i, iː/ et /y, yː/ maintenue partout hormis [[Régiolectes#Régiolectes|{U}]], écrites respectivement ⟨y, yy⟩ et ⟨ü, üü⟩. Cela permet à un locuteur de francique rhénan méridional [[Régiolectes#Régiolectes|{U}]] de savoir qu’il doit prononcer avec une diphtongue :
 > > ⟨Zait/Zëit⟩ et ⟨Haus/Hœus⟩ pour ⟨Zyt⟩ et ⟨Hüs⟩.
 > 
 > Les sons /a, aː/ et /ɛ, ɛː/ varient selon l’espace, et ont deux origines distinctes : du mha. ⟨ë⟩ ou bien de la métaphonie de /ɒ/, donc du mha. ⟨ä, æ⟩. Pour avoir une écriture adaptée au système vocalique de l’alsacien (et non à la prononciation des lettres dans les langues voisines), le parti pris était de changer la prononciation des voyelles « par défaut », donc sans diacritique. Cela permet d’avoir une meilleure uniformisation dans la métaphonie : voy. sans diacritique → voy. avec diacritique.
@@ -325,11 +325,11 @@ Juste pour les curieux, les règles relatives à la longueur vocalique en allema
 
 ## 3.3 Remarques pour certaines voyelles
 
-**⟨ee/eh, oo/oh⟩** sont prononcés /eː, oː/ dans une zone comprenant les deux franciques, Strasbourg, puis au sud de Colmar exclu. Dans la zone restante que l’on tag [[Régiolectes#^4121fa|{ee}]] (la zone alémanique, du nord jusqu’a Colmar inclu), celles-ci seront prononcées plus fermées /ɪː, ʊː/. (voir [[C. Variétés dialectales#1.7. Prononciation de ⟨ee⟩ et ⟨oo⟩|C.1.7]]). ^bf9fe7
+**⟨ee/eh, oo/oh⟩** sont prononcés /eː, oː/ dans une zone comprenant les deux franciques, Strasbourg, puis au sud de Colmar exclu. Dans la zone restante que l’on tag [[Régiolectes#Phénomènes phonétiques|{ee}]] (la zone alémanique, du nord jusqu’a Colmar inclu), celles-ci seront prononcées plus fermées /ɪː, ʊː/. (voir [[C. Variétés dialectales#1.7. Prononciation de ⟨ee⟩ et ⟨oo⟩|C.1.7]]). ^bf9fe7
 
-- Il existe cependant un certain nombre de terme se prononçant avec /eː/ et /oː/ dans la zone [[Régiolectes#^4121fa|{ee}]]. Ceux-ci peuvent être distingués de /ɪː/ et /ʊː/ si besoin en utilisant **⟨ê, ô⟩** au lieu de ⟨ee, oo⟩ : *dü düesch r**ô**te ≠ s r**oo**te Auto* ^[(tu devine ≠ la voiture rouge)] et _fierz**êh** ≠ fier Z**eh**_. ^[(14 ≠ 4 orteils)]
+- Il existe cependant un certain nombre de terme se prononçant avec /eː/ et /oː/ dans la zone [[Régiolectes#Phénomènes phonétiques|{ee}]]. Ceux-ci peuvent être distingués de /ɪː/ et /ʊː/ si besoin en utilisant **⟨ê, ô⟩** au lieu de ⟨ee, oo⟩ : *dü düesch r**ô**te ≠ s r**oo**te Auto* ^[(tu devine ≠ la voiture rouge)] et _fierz**êh** ≠ fier Z**eh**_. ^[(14 ≠ 4 orteils)]
 
-**⟨uu, uh⟩ /u, uː/ et /ʊ, ʊː/** sont également des variantes selon les parlers : certains auront \[u, uː], d’autres \[ʊ, ʊː]. Aucune variété à ma connaissance ne distingue /u/ de /ʊ/, il n’est donc pas important de mettre la distinction à l’écrit (contrairement à /ɪː ≠ eː/ ci-dessus). La zone qui prononce \[u, uː] est tagée [[Régiolectes#^96eefa|{ù-u}]], il s’agit grosso-modo d’une partie de l’Outre-Forêt et d’une zone autour de Mulhouse.
+**⟨uu, uh⟩ /u, uː/ et /ʊ, ʊː/** sont également des variantes selon les parlers : certains auront \[u, uː], d’autres \[ʊ, ʊː]. Aucune variété à ma connaissance ne distingue /u/ de /ʊ/, il n’est donc pas important de mettre la distinction à l’écrit (contrairement à /ɪː ≠ eː/ ci-dessus). La zone qui prononce \[u, uː] est tagée [[Régiolectes#Phénomènes phonétiques|{ù-u}]], il s’agit grosso-modo d’une partie de l’Outre-Forêt et d’une zone autour de Mulhouse.
 
 **⟨œ⟩** est toujours prononcé long sauf dans la diphtongue ⟨œi⟩. C’est donc une sorte d’exception à la règle de longueur vocalique fixée plus haut car ⟨œœ⟩ n’est pas très esthétique et la longueur n’a pas besoin d’être distinguée pour ce son. Vous rencontrerez également ⟨eu⟩ pour /œː/ ou /øː/ selon les scripteurs.
 
@@ -343,7 +343,7 @@ Juste pour les curieux, les règles relatives à la longueur vocalique en allema
 |   **ia**   | **ia̯,     (ɪa̯)** | miad, Liacht  |
 |   **üe**   | **yə̯, ʏː, (øə̯)** | güet, Büe     |
 |   **üa**   | **ya̯,     (øa̯)** | güat, Büa(b)  |
-|   **uë**   |      **uə̯**       | guëd, Buë [[Régiolectes#^3e5793\|{uë}]] |
+|   **uë**   |      **uə̯**       | guëd, Buë [[Régiolectes#Phénomènes phonétiques\|{uë}]] |
 
 **Diphtongues avec glide /j/**
 
@@ -403,7 +403,7 @@ Notons que dans les autres positions hors de ces diphtongues, un ⟨j⟩ s’uti
 
 ## 4.2 Prononciation équivalente en français
 
-La variante **\[ɪː]** de ⟨ie⟩ est similaire à ⟨ee/eh⟩ pour la zone [[Régiolectes#^96eefa|{ee}]] dans la [[#^7f4fec|section 3.]] : il s’agit du même son intermédiaire entre le ⟨i⟩ et ⟨é⟩ français. Généralement, les parlers ayant /ɪː/ pour ⟨ee⟩ auront une autre prononciation pour ⟨ie⟩ afin de maintenir la distinction, mais il se peut que les deux se prononcent pareil, dans quel cas seul l’orthographe pourra distinguer *Leeb* de *Lieb.* 
+La variante **\[ɪː]** de ⟨ie⟩ est similaire à ⟨ee/eh⟩ pour la zone [[Régiolectes#Phénomènes phonétiques|{ee}]] dans la [[#^7f4fec|section 3.]] : il s’agit du même son intermédiaire entre le ⟨i⟩ et ⟨é⟩ français. Généralement, les parlers ayant /ɪː/ pour ⟨ee⟩ auront une autre prononciation pour ⟨ie⟩ afin de maintenir la distinction, mais il se peut que les deux se prononcent pareil, dans quel cas seul l’orthographe pourra distinguer *Leeb* de *Lieb.* 
 
 La variante **\[ʏː]** de ⟨üe⟩ équivaut à un son intermédiaire entre **⟨u⟩** de *pur* et **⟨eu⟩** de *feu, peureux*.
 
