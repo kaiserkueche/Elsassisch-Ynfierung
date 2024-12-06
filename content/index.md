@@ -12,12 +12,12 @@ Bonne lecture à vous
 > 
 > ## A. Contextualisation
 >
-> [[C’est quoi « l’alsacien » ?]]  
+> [[C’est quoi « l’alsacien »]]  
 > [[Les dialectes en Alsace]]  
 > 
 > ## B. Prononciation
 > 
-> [[Prononciation]]
+> [[Prononciation]]  
 > [[İnventaire des sons]]  
 > [[Accent tonique]]  
 > [[Consonnes]]  
