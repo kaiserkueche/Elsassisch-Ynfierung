@@ -1,3 +1,8 @@
+---
+tags:
+  - verbe
+---
+
 ![[_files/canvas/typology conjugation.png]]
 
 Liste de toutes les formes de conjugaison :

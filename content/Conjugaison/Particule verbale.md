@@ -1,3 +1,8 @@
+---
+tags:
+  - verbe
+---
+
 Particule verbale
     • Inséparable :	fer-, er-, ent-, be-, emp-, (iwer-, um-).
 		ferlange, ferschtehn, ferfriere, ferzehle…

@@ -1,3 +1,8 @@
+---
+tags:
+  - verbe
+---
+
 Les traits morphologiques propres au verbes et aux auxiliaires sont :
 
 - la personne et le nombre

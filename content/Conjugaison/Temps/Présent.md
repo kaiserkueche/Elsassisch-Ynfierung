@@ -11,15 +11,15 @@ S’utilise pour parler d’une action non accomplie au présent, mais égalemen
 
 **Règle générale**
 
-|   **Zone**    | [[Régiolectes#Zones supra-régiolecte\|{FR}]] [[Régiolectes#Zones supra-régiolecte\|{BAN}]] | [[Régiolectes#Phénomènes phonétiques\|{n-∅}]] |
-| :-----------: | :------: | :--: |
-| **Infinitif** |    -e    |      |
-|               |    -n    |  -∅  |
+|   **Zone**    | [[X. Annexes/Régiolectes#Zones supra-régiolecte\|{FR}]] [[X. Annexes/Régiolectes#Zones supra-régiolecte\|{BAN}]] | [[X. Annexes/Régiolectes#Phénomènes phonétiques\|{inf-∅}]] |
+| :-----------: | :--------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------: |
+| **Infinitif** |    -e    |                                                            |
+|               |    -n    |                             -∅                             |
 Marquage de l’infinitif
 
 [[İnfinitif#Marquage de l’infinitif|Plus de détails]]
 
-|  Personne  |     Pronom      |   [[Régiolectes#Régiolectes\|{K}]] [[Régiolectes#Zones supra-régiolecte\|{BA}]]   |                   [[Régiolectes#Régiolectes\|{U}]]                   |                   [[Régiolectes\|{S}]]                   |
+|  Personne  |     Pronom      |   [[X. Annexes/Régiolectes#Régiolectes\|{K}]] [[X. Annexes/Régiolectes#Zones supra-régiolecte\|{BA}]]   |                   [[X. Annexes/Régiolectes#Régiolectes\|{U}]]                   |                   [[X. Annexes/Régiolectes\|{S}]]                   |
 | :--------: | :-------------: | :--------: | :------------------------------------: | :------------------------------------: |
 | 1ʳᵉ p. sg. |       ich       |   **-∅**   |                                        |                                        |
 | 2ᵉ p. sg.  |       dü        |  **-sch**  |                                        |                                        |
@@ -29,7 +29,7 @@ Marquage de l’infinitif
 | 3ᵉ p. pl.  |       sy        |     ^^     |                   ^^                   |               ***inf.***               |
 [Récapitulatif]
 
-> [!example]- Francique rhénan [[Régiolectes#Régiolectes\|{K}]]
+> [!example]- Francique rhénan [[X. Annexes/Régiolectes#Régiolectes\|{K}]]
 > 
 > |    Infinitif    | mach<font color="#7852ee">e</font>   | geh<font color="#7852ee">n</font>   | ëss<font color="#7852ee">e</font> |
 > | :-------------: | ------------------------------------ | ----------------------------------- | --------------------------------- |
@@ -38,7 +38,7 @@ Marquage de l’infinitif
 > | ër, si, ës, m’r | mach<font color="#7852ee">t</font>   | geh<font color="#7852ee">t</font>   | ëss<font color="#7852ee">t</font> |
 > |   mir, ir, sy   | mach<font color="#7852ee">e</font>   | geh<font color="#7852ee">n</font>   | ëss<font color="#7852ee">e</font> |
 
-> [!example]- Francique rhénan médirional [[Régiolectes#Régiolectes\|{U}]] 
+> [!example]- Francique rhénan médirional [[X. Annexes/Régiolectes#Régiolectes\|{U}]] 
 > 
 > |    Infinitif    | mach<font color="#7852ee">e</font>         | geh<font color="#7852ee">n</font>   |äss<font color="#7852ee">e</font>         |
 > | :-------------: | ------------------------------------------ | ----------------------------------- | ----------------------------------------- |
@@ -47,7 +47,7 @@ Marquage de l’infinitif
 > | är, si, äs, m’r | mach<font color="#7852ee">t</font>         | geh<font color="#7852ee">t</font>   | äss<font color="#7852ee">t</font>         |
 > |   mir, ir, si   | mach<font color="#7852ee"><u>en</u></font> | geh<font color="#7852ee">n</font>   | äss<font color="#7852ee"><u>en</u></font> |
 
-> [!example]- Bas-alémanique du nord [[Régiolectes#Zones supra-régiolecte\|{BAN}]] 
+> [!example]- Bas-alémanique du nord [[X. Annexes/Régiolectes#Zones supra-régiolecte\|{BAN}]] 
 > 
 > |    Infinitif    | mach<font color="#7852ee">e</font>   | geh<font color="#7852ee">n</font>   | äss<font color="#7852ee">e</font> |ëss<font color="#7852ee">e</font> |
 > | :-------------: | -- | -- | --: | -- |
@@ -56,7 +56,7 @@ Marquage de l’infinitif
 > | är, sy, äs, m’r | mach<font color="#7852ee">t</font> | geh<font color="#7852ee">t</font>   | <font color="#fb464c">i</font>ss<font color="#7852ee">t</font>/äss<font color="#7852ee">t</font> | ëss<font color="#7852ee">t</font> |
 > | mir, ir, sy| mach<font color="#7852ee">e</font> | geh<font color="#7852ee">n</font> | äss<font color="#7852ee">e</font>| ëss<font color="#7852ee">e</font> |
 
-> [!example]- Bas-alémanique du sud [[Régiolectes#Phénomènes phonétiques\|{n-∅}]]  [[Régiolectes#Régiolectes\|{E}]]
+> [!example]- Bas-alémanique du sud [[X. Annexes/Régiolectes#Phénomènes phonétiques\|{inf-∅}]]  [[X. Annexes/Régiolectes#Régiolectes\|{E}]]
 > 
 > |    Infinitif    | mach<font color="#7852ee">e</font>   | geh<font color="#7852ee">∅</font>   | äss<font color="#7852ee">e</font>                              |
 > | :-------------: | -- | --- | -- |
@@ -65,7 +65,7 @@ Marquage de l’infinitif
 > | är, si, äs, m’r | mach<font color="#7852ee">t</font>   | geh<font color="#7852ee">t</font>   | <font color="#fb464c">i</font>ss<font color="#7852ee">t</font> |
 > |   mir, ir, si   | mach<font color="#7852ee">e</font>   | geh<font color="#7852ee">∅</font>   | äss<font color="#7852ee">e</font>                              |
 
-> [!example]- Haut-alémanique [[Régiolectes#Régiolectes\|{S}]] 
+> [!example]- Haut-alémanique [[X. Annexes/Régiolectes#Régiolectes\|{S}]] 
 > 
 > |    Infinitif    | mach<font color="#7852ee">e</font>         | goh<font color="#7852ee">∅</font>                                      | chuu<font color="#7852ee">∅</font>                                 | äss<font color="#7852ee">e</font>                              |
 > | :-------------: | ------------------------------------------ | ---------------------------------------------------------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------- |
@@ -84,14 +84,14 @@ Marquage de l’infinitif
 - hàn, sìn, waare
 - gaan, lonn, (sahn)
 - bliiwe
-- [[Régiolectes|{S}]] goh, chuu
+- [[X. Annexes/Régiolectes|{S}]] goh, chuu
 
 ajouter aussi les trucs plus niche
 - gaan > gib
 - verbe en -s/tz → du -sch drop le s/z : dü setsch
 %%
 
-> [!example]- Francique rhénan [[Régiolectes#Régiolectes\|{K}]]
+> [!example]- Francique rhénan [[X. Annexes/Régiolectes#Régiolectes\|{K}]]
 > 
 > |    Infinitif    | sin                                | han                                                             | wër<font color="#7852ee">e</font>                               |
 > | :-------------: | ---------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------- |
@@ -100,7 +100,7 @@ ajouter aussi les trucs plus niche
 > | ër, sy, ës, m’r | <font color="#fb464c">isch</font>  | ha<font color="#7852ee">t</font>   | wër<font color="#7852ee">d</font>                                 |
 > |   mir, ir, sy   | sin                                | han                                                             | wër<font color="#7852ee">e</font>                               |
 
-> [!example]- Francique rhénan méridional [[Régiolectes#Régiolectes\|{U}]]
+> [!example]- Francique rhénan méridional [[X. Annexes/Régiolectes#Régiolectes\|{U}]]
 > 
 > |    Infinitif    | sin                                | hàn                                                             | wär<font color="#7852ee">e</font>                               |
 > | :-------------: | ---------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------- |
@@ -109,7 +109,7 @@ ajouter aussi les trucs plus niche
 > | är, si, äs, m’r | <font color="#fb464c">isch</font>  | ha<font color="#7852ee">t</font>   | wär<font color="#7852ee">d</font>                                 |
 > |   mir, ir, si   | sin                                | han                                                             | wär<font color="#7852ee">e</font>                               |
 
-> [!example]- Bas-alémanique du nord [[Régiolectes#Zones supra-régiolecte\|{BAN}]]
+> [!example]- Bas-alémanique du nord [[X. Annexes/Régiolectes#Zones supra-régiolecte\|{BAN}]]
 > 
 > |    Infinitif    | sin                                | han                                                             | wäär<font color="#7852ee">e</font>                               |
 > | :-------------: | ---------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------- |
@@ -118,7 +118,7 @@ ajouter aussi les trucs plus niche
 > | är, sy, äs, m’r | <font color="#fb464c">isch</font>  | h<font color="#fb464c">e</font><font color="#7852ee">t</font>   | w<font color="#fb464c">o</font>r<font color="#7852ee">d</font>                                |
 > |   mir, ir, sy   | sin                                | han                                                             | wäär<font color="#7852ee">e</font>                               |
 
-> [!example]- Bas-alémanique du sud [[Régiolectes#Régiolectes\|{E}]] [[Régiolectes#Phénomènes phonétiques\|{n-∅}]] 
+> [!example]- Bas-alémanique du sud [[X. Annexes/Régiolectes#Régiolectes\|{E}]] [[X. Annexes/Régiolectes#Phénomènes phonétiques\|{inf-∅}]] 
 > 
 > |    Infinitif    | sii                                | haa                                                            | wäär<font color="#7852ee">a</font>                               |
 > | :-------------: | ---------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------- |
@@ -127,7 +127,7 @@ ajouter aussi les trucs plus niche
 > | är, sy, äs, m’r | <font color="#fb464c">ìsch</font>  | h<font color="#fb464c">e</font><font color="#7852ee">t</font>   | w<font color="#fb464c">o</font>r<font color="#7852ee">d</font>                                |
 > |   mir, ir, sy   | sin                                | h<font color="#fb464c">ä</font>n                                                             | wäär<font color="#7852ee">a</font>                               |
 
-> [!example]- Haut-alémanique [[Régiolectes#Régiolectes\|{S}]]
+> [!example]- Haut-alémanique [[X. Annexes/Régiolectes#Régiolectes\|{S}]]
 > 
 > |    Infinitif    | sii                               | haa                      | wärd<font color="#7852ee">e</font>                               |
 > | :-------------: | ------- | --------------------- | ---------------------- |

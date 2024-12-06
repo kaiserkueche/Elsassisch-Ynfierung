@@ -1,3 +1,8 @@
+---
+tags:
+  - substantif
+---
+
 - Nom commun
 - Nom propre
 

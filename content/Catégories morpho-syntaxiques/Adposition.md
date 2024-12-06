@@ -22,6 +22,7 @@ Il existe trois type d’adpositions : les prépositions, postpositions et cir
 > - Dü kummsch <u>mir</u> **entgeje**.
 > - De Jeeses het <u>uns</u> **zelieb** sin Lääwe gschänkt.
 > - Syner Dienscht kummt <u>alle</u> **zegüet**, wo an de Krischtüs glœwe.
+> - Es frëid mi, dass myni Kinder <u>de Wohret</u> **gemäss** lääwe.
 
 # Circomposition
 

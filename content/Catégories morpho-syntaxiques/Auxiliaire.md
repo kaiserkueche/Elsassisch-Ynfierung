@@ -1,3 +1,8 @@
+---
+tags:
+  - verbe
+---
+
 > « Un verbe auxiliaire est un [[Verbe|verbe]] qui accompagne le verbe lexical d'un groupe verbal et exprime des distinctions grammaticales qui ne sont pas portées par le verbe lexical, telles que la personne, le nombre, le temps, le mode, l'aspect et la voix »^[[Universal Dependencies](https://universaldependencies.org/u/pos/AUX_.html), notre traduction.]
 
 Un verbe utilisé en tant qu’auxiliaire perd son sens propre et devient un support grammatical.
@@ -7,7 +12,7 @@ Un verbe utilisé en tant qu’auxiliaire perd son sens propre et devient un sup
 > - han, haa
 > - wääre, wëre, wäärde
 > - düen, düe (+ gään, gää)
-> - krieje [[Régiolectes#^b51bca|{K,U,N}]], bekumme, bykuu
+> - krieje [[X. Annexes/Régiolectes#^b51bca|{K,U,N}]], bekumme, bykuu
 
 
 > [!example] Liste des auxiliaires modaux

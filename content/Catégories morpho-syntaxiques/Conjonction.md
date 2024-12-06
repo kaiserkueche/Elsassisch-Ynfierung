@@ -1,3 +1,8 @@
+---
+tags:
+  - conjonction
+---
+
 - Coordination _(awer)_
 - Subordination _(wyl)_
 - Adverbe conjonctionnel _(noh)_
@@ -8,8 +13,8 @@ La conjonction prend la place 0, le verbe conjugué est en deuxième position (V
 > Ich hab nix gässe, **awer** ich <u>hab</u> ken hunger.
 
 > [!example]- Liste
-> - awer • aber [[Régiolectes#Régiolectes|{S}]]
-> - dänn • dënn [[Régiolectes#Phénomènes phonétiques|{ä}]] [[Régiolectes#Régiolectes|{S}]]
+> - awer • aber [[X. Annexes/Régiolectes#Régiolectes|{S}]]
+> - dänn • dënn [[X. Annexes/Régiolectes#Phénomènes phonétiques|{ä}]] [[X. Annexes/Régiolectes#Régiolectes|{S}]]
 > - doch
 > - odder
 > - un
@@ -24,7 +29,7 @@ Dans les propositions subordonnées, le verbe conjugué est en dernière positio
 > - fer … ze
 > - ob, eb
 > - üsser wänn
-> - wänn • wann [[Régiolectes#Régiolectes|{İ}]] • wënn [[Régiolectes#Phénomènes phonétiques|{ä}]] [[Régiolectes#Régiolectes|{S}]] 
+> - wänn • wann [[X. Annexes/Régiolectes#Régiolectes|{İ}]] • wënn [[X. Annexes/Régiolectes#Phénomènes phonétiques|{ä}]] [[X. Annexes/Régiolectes#Régiolectes|{S}]] 
 > - wänn … œi
 > - wu, wi, wü <sup>(réparition en [[C. Variétés dialectales#2.2. _Où ?_ et pronom relatif|C.2.2.]])</sup>
 > - wie
@@ -68,13 +73,13 @@ Dans ce cas, l’adverbe prend la première position et le verbe conjugué se tr
 > [!example]- Liste
 > - allerdings
 > - also
-> - debyy • d’rbyy [[Régiolectes#Zones supra-régiolecte|{AS}]] • däbai/däbëi [[Régiolectes#Régiolectes|{U}]]
-> - dewääje • dewëëje [[Régiolectes#Phénomènes phonétiques|{ä}]] • d’rwääge [[Régiolectes#Phénomènes phonétiques|{g}]]
+> - debyy • d’rbyy [[X. Annexes/Régiolectes#Zones supra-régiolecte|{AS}]] • däbai/däbëi [[X. Annexes/Régiolectes#Régiolectes|{U}]]
+> - dewääje • dewëëje [[X. Annexes/Régiolectes#Phénomènes phonétiques|{ä}]] • d’rwääge [[X. Annexes/Régiolectes#Phénomènes phonétiques|{g}]]
 > - drum
 > - ==anderi da…?==
-> - fôrhäär • fôrhëër [[Régiolectes#Phénomènes phonétiques|{ä}]]
-> - genœisoo • genausoo [[Régiolectes#Régiolectes|{N}]] • gnoisoo [[Régiolectes#Zones supra-régiolecte|{AS}]]
-> - noh [[Régiolectes#Zones supra-régiolecte|{AN}]] • d’rnoh [[Régiolectes#Régiolectes|{M,E,S}]] • d’rnoht + nohtert [[Régiolectes#Phénomènes phonétiques|{ä}]]
+> - fôrhäär • fôrhëër [[X. Annexes/Régiolectes#Phénomènes phonétiques|{ä}]]
+> - genœisoo • genausoo [[X. Annexes/Régiolectes#Régiolectes|{N}]] • gnoisoo [[X. Annexes/Régiolectes#Zones supra-régiolecte|{AS}]]
+> - noh [[X. Annexes/Régiolectes#Zones supra-régiolecte|{AN}]] • d’rnoh [[X. Annexes/Régiolectes#Régiolectes|{M,E,S}]] • d’rnoht + nohtert [[X. Annexes/Régiolectes#Phénomènes phonétiques|{ä}]]
 > - sunscht • schunsch
 > - üsserdem
 > - wie wann/wänn/wënn

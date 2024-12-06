@@ -1,6 +1,4 @@
-Cette carte est utilisée sur le serveur discord pour les différents rôles.
-
-Il existe quarte type de code utilisé pour situer dans quelle zone l’on prononce de telle manière. Tout d’abord, les sept régiolectes principaux ci-dessus sont indiqués par une lettre en majuscule (ex. ⟨K⟩ pour Krummes Elsass), les zones dialectales plus larges sont indiquées par deux ou trois lettre en majuscule (ex. ⟨FR⟩ pour les deux franciques). Ensuite, certaines zones infra-régiolectes sont écrite en abbréviation (ex. ⟨Ksbg⟩ pour le Kochersberg), et enfin, certains phénomènes phonétiques ne suivent pas les frontières des régiolectes et ont leur propre frontières. Ceux-ci sont indiqués à l’aide de plusieurs lettres en minuscule qui représentent le changement (ex. ⟨ù-u⟩ pour la zone où l’on prononce /ʊ/ ou /u/).
+İl existe quarte type de code utilisé pour situer dans quelle zone l’on prononce de telle manière. Tout d’abord, les sept régiolectes principaux ci-dessus sont indiqués par une lettre en majuscule (ex. ⟨K⟩ pour Krummes Elsass), les zones dialectales plus larges sont indiquées par deux ou trois lettre en majuscule (ex. ⟨FR⟩ pour les deux franciques). Ensuite, certaines zones infra-régiolectes sont écrite en abbréviation (ex. ⟨Ksbg⟩ pour le Kochersberg), et enfin, certains phénomènes phonétiques ne suivent pas les frontières des régiolectes et ont leur propre frontières. Ceux-ci sont indiqués à l’aide de plusieurs lettres en minuscule qui représentent le changement (ex. ⟨ù-u⟩ pour la zone où l’on prononce /ʊ/ ou /u/).
 
 # Régiolectes
 
@@ -36,7 +34,7 @@ Il existe quarte type de code utilisé pour situer dans quelle zone l’on prono
 
 # Phénomènes phonétiques
 
-#### {ng} Vélariation de ⟨nd⟩ en ⟨ng⟩
+#### {nd} Vélariation de ⟨nd⟩ en ⟨ng⟩
 
 ![[ala 164 finde.png]]
 
@@ -69,7 +67,7 @@ Zone dans laquelle le son ⟨nd⟩ /nd̥/ s’est vélarisé en ⟨ng⟩ /ŋ/ un
 > | Kund              | —                | Kuine                                |
 > | Lind              | Ling • Linge {S} | Lëng                                 |
 > 
-> | Forme majoritaire | {İ,S,Mnstr} | [[Régiolectes#{ë} ⟨ë⟩ au lieu de ⟨ä⟩ pour mha. *ë,ä,æ*\|{ë}]] |
+> | Forme majoritaire | {İ,S,Mnstr} | [[X. Annexes/Régiolectes#{ë} ⟨ë⟩ au lieu de ⟨ä⟩ pour mha. *ë,ä,æ*\|{ë}]] |
 > | ----------------- | ----------- | ------------------------------------------------------------- |
 > | (fer)blände       | ferblänge   | ferblënge                                                     |
 > | wände             | wänge       | wënge                                                         |
@@ -103,7 +101,7 @@ Tous les autres mots en ⟨nd⟩ restent ⟨nd⟩ (Wind, Kind, Wand) dans toute 
 
 (voir [[İndex de cartes#⟨finde/gfunde⟩|carte finde]] et [[C. Variétés dialectales#1. Les isophones|C.1. point ⑩]])
 
-#### {ë} ⟨ë⟩ au lieu de ⟨ä⟩ pour mha. *ë,ä,æ*
+#### {ë} ⟨ë⟩ au lieu de ⟨ä⟩ pour mha. ë,ä,æ
 
 ![[3 Unistra - carte ä,a - blue.png]]
 
@@ -111,7 +109,7 @@ Zone dans laquelle on prononce ⟨ë⟩ /ɛ/ pour mha. *ë, ä, æ* au lieu de �
 
 (voir [[C. Variétés dialectales#1.2. La variante ⟨ä/ë⟩|C.1.2]])
 
-#### {n-∅} Pas de marquage (-∅) pour les infinitifs en *-n*
+#### {inf-∅} Pas de marquage (-∅) pour les infinitifs en -n
 
 La grande majorité des verbes prennent ⟨*-e/-ä*⟩ à l’infinitif, mais certains prennent ⟨*-n*⟩ dans une partie du domaine, et Perte du marquage de l’infinitif (***-∅*** au lieu de ***-n***)
 
@@ -123,7 +121,7 @@ Il s’agit grosso modo de la moitié sud et d’un ilot à Wissembourg. C’est
 
 Zone où l’on maintient le ⟨g⟩ /ɡ̊/ en tout position environ en {AS} à quelques communes près. (voir [[C. Variétés dialectales#1. Les isophones|C.1. point ⑥]])
 
-#### {ô} Fermeture du ⟨aa⟩ long en ⟨ô⟩ /oː/
+#### {ô} Fermeture du ⟨aa⟩ en ⟨ô⟩ /oː/
 
 ![[ala 54 naas.png]]
 C’est un phénomène phonétique qui est souvent perçu comme rural, car la zone où l’on prononce ⟨ô⟩ est historiquement ine zone à tendance agricole. Il s’agit de parties du Kochersberg, de la vallée de la Zorn, du Ried du nord, de la Brüech d’Obernai et du Val de Villé. La distinction d’avec le ⟨oo⟩ reste maintenu car celui-ci est prononcé /ʊː/ dans cette zone (voir [[C. Variétés dialectales#1.7. Prononciation de ⟨ee⟩ et ⟨oo⟩|C.1.7]])
@@ -135,11 +133,11 @@ C’est un phénomène phonétique qui est souvent perçu comme rural, car la zo
 
 #### {ee} Fermeture de ⟨ee, oo⟩ en /ɪː/ et /ʊː/
 
-==description==
+==description== c’est aussi la zone où on distingue les 2 : /ɪː/ et /eː/
 
-(voir [[C. Variétés dialectales#1.7. Prononciation de ⟨ee⟩ et ⟨oo⟩|C.1.7]]) ^4121fa
+(voir [[C. Variétés dialectales#1.7. Prononciation de ⟨ee⟩ et ⟨oo⟩|C.1.7]])
 
-#### {ù-u} Fermeture de /ʊː/ en /uː/
+#### {u-ù} Fermeture de /ʊː/ en /uː/
 
 Extension du phonème /uː/ au lieu de /ʊː/
 
@@ -147,7 +145,7 @@ Extension du phonème /uː/ au lieu de /ʊː/
 
 Aire sans palatalisation du mha. _uo_ donc maintien de /uə̯/ pour l’habituel /yə̯/ bas-alémanique (voir ??)
 
-#### {oi} Zone de /oj/ ⟨oi⟩ pour mha. *ou.*
+#### {oi} Zone de /oj/ ⟨oi⟩ pour mha. ou
 
 #### {öi} Palatalisation de ⟨oi⟩ en ⟨öi⟩ au nord
 

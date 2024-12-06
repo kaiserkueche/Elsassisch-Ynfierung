@@ -1,3 +1,8 @@
+---
+tags:
+  - verbe
+---
+
 Les verbes modaux :
 
 - volonté (Är will singe)

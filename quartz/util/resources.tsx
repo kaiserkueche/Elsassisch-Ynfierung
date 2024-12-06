@@ -61,5 +61,5 @@ export function CSSResourceToStyleElement(resource: CSSResource, preserve?: bool
 
 export interface StaticResources {
   css: CSSResource[]
-  js: JSResource["abbr_mobile.js"]
+  js: JSResource[]
 }

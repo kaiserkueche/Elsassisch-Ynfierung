@@ -10,7 +10,19 @@ Bonne lecture à vous
 > [!summary] Naviguer sur le site
 > ⬅️ Vous pouvez directement explorer dans les dossiers. C’est visible sur la version PC sur votre gauche.
 > 
-> ## İntroduction à l’alsacien
+> ## A. Contextualisation
+>
+> [[C’est quoi « l’alsacien » ?]]  
+> [[Les dialectes en Alsace]]  
+> 
+> ## B. Prononciation
+> 
+> [[Prononciation]]
+> [[İnventaire des sons]]  
+> [[Accent tonique]]  
+> [[Consonnes]]  
+> [[Voyelles]]  
+> [[Diphtongues]]
 > 
 > [[A. « Alsacien »]]  
 > [[B. Prononciation]]  

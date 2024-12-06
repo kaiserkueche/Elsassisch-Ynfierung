@@ -4,6 +4,14 @@
 
 // abbr
 // source: https://stackoverflow.com/questions/34276581/display-abbr-and-acronym-on-mobile-devices
+
+// FIND PATH TO PUT THIS JS SCRIPT
+//    $(() => {
+//    $('abbr').attr('data-toggle', 'tooltip'); // add attribute to all abbrs
+//      $('abbr[data-title]').removeAttr("data-title"); // have to be removed to prevent double hint showing
+ //     $('[data-toggle="tooltip"]').tooltip(); // initialize tooltips on all abbrs 
+ //});
+
 abbr[title]
 {
   cursor: help;

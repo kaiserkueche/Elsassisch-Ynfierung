@@ -1,3 +1,8 @@
+---
+tags:
+  - pronom
+---
+
 Les pronoms se déclinent selon les traits morphologiques suivants :
 
 - le [[Genre]]
